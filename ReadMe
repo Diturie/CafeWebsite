@@ -1,0 +1,44 @@
+# Diti's Cafe Website
+
+## Përshkrimi
+Nje faqe interneti per kafene "Diti's Cafe", e krijuar me HTML, CSS (Flexbox) dhe JavaScript për të ofruar një përvojë të bukur dhe të pergjegjshme per perdoruesit.
+
+## Teknologjitë e Përdorura
+- **HTML5**: Struktura e faqes
+- **CSS3 (Flexbox)**: Stilizimi dhe dizajni fleksibel
+- **JavaScript**: Funksionalitete dinamike (p.sh., shporta e blerjeve)
+
+## Seksionet Kryesore
+1. **Home**: Mirepritje dhe butona per navigim te shpejte.
+2. **About Us**: Informacione rreth kafese.
+3. **Menu**: Artikujt kryesore te menuse.
+4. **Products**: Produkte te veçanta per blerje.
+5. **Gallery**: Imazhe nga ambienti dhe produktet.
+6. **Contact Us**: Formular per kontakt dhe te dhena per komunikim.
+
+## Funksionalitete Kryesore
+- Modal për shporten e blerjeve.
+- Seksion dinamik i menuse dhe produkteve.
+- Galeri me imazhe.
+- Formular për kontakt.
+
+## Struktura e Projektit
+- **index.html**: Struktura kryesore e faqes.
+- **css/style.css**: Stilizimi i faqes.
+- **js/app.js**: Funksionalitetet me JavaScript.
+- **asstes/**: Imazhe dhe video per seksionet perkatese.
+
+## Si të Përdoret?
+1. Shkarko ose klono projektin.
+2. Hap skedarin `index.html` në nje shfletues ose kliko linkun ne fund te ketij file.
+3. Shijo përvojën!
+
+## Autori
+- **Emri**: Diturie Mehmeti
+- **Email**: diticoffee@gmail.com
+
+## Licenca
+Ky projekt eshte i licencuar nen [MIT License](https://opensource.org/licenses/MIT).
+
+## Linku per projekt
+
